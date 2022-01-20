@@ -27,7 +27,7 @@ export const ContainerLeft = styled.div`
         margin: 0 auto;
         padding: 30px;
         //background-color: grey;
-        height: 80vh;
+        height: 100vh;
     }
     h1 {
         font-size: 2.5rem;
