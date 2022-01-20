@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import {
     Container,
-    Container_left,
-    Container_right
+    ContainerLeft,
+    ContainerRight
 
 } from './styled'
 
@@ -14,7 +14,7 @@ class Main extends Component {
     render() {
         return (
             <Container>
-              <Container_left>
+              <ContainerLeft>
                 <div>
                     <h1>LabenuSpace</h1>
                     <p>Loja LabenuSpace Atacado, compre online e receba onde quiser com entrega rápida e segura. Garanta o sucesso da sua Loja Geek com produtos incriveís. Ofertas para lojistas.
@@ -22,14 +22,14 @@ class Main extends Component {
                     <button>Descubra</button>
                 </div>
                 
-              </Container_left>
-              <Container_right>
+              </ContainerLeft>
+              <ContainerRight>
                 <div>
                   <img src={Img1} alt={"logo1"}/>
                   <img src={Img2} alt={"logo2"}/>
                   <img className="img3" src={Img3} alt={"logo3"}/>
                 </div> 
-              </Container_right>
+              </ContainerRight>
             </Container>
         );
     }

@@ -14,7 +14,7 @@ export const Container = styled.div`
     height: 100%;
   }
 `
-export const Container_left = styled.div`
+export const ContainerLeft = styled.div`
     display: flex;
     align-items: center;
     //background-color: red;
@@ -63,7 +63,7 @@ export const Container_left = styled.div`
     }
 
 `
-export const Container_right = styled.div`
+export const ContainerRight = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
