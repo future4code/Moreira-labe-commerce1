@@ -17,7 +17,8 @@ class Main extends Component {
               <ContainerLeft>
                 <div>
                     <h1>LabenuSpace</h1>
-                    <p>Loja LabenuSpace Atacado, compre online e receba onde quiser com entrega rápida e segura. Garanta o sucesso da sua Loja Geek com produtos incriveís. Ofertas para lojistas.
+                    <p>Loja LabenuSpace Atacado, compre online e receba onde quiser com entrega rápida e segura.
+                       Garanta o sucesso da sua Loja Geek com produtos incriveís. Ofertas para lojistas.
                     </p>
                     <button>Descubra</button>
                 </div>
