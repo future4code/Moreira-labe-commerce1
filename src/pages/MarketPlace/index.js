@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
+import MarketplaceHeader from '../../components/MarketplaceHeader'
 import Footer from '../../components/Footer'
 
 class MarketPlace extends Component {
     render() {
         return (
             <div>
-                hello Place
+                <MarketplaceHeader/>
                 <Footer />
             </div>
         );

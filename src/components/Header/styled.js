@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 export const Boxheader = styled.header`
     display: flex;
-    background-color:#DADAD9;
+    background-color:#3f3d56;
     justify-content: space-evenly;
     align-items: center;
     height: 80px;
