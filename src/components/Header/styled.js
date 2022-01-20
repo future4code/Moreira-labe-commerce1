@@ -5,8 +5,13 @@ export const Boxheader = styled.header`
     display: flex;
     background-color:#DADAD9;
     justify-content: space-evenly;
+    align-items: center;
     height: 80px;
-    
+    @media only screen and (max-width:600px){
+        display: flex;
+        justify-content: space-between;
+        padding: 0px 20px;
+    }  
 `
 export const Listas = styled.li`
     list-style: none;
@@ -25,17 +30,36 @@ export const Listas = styled.li`
         &:hover{
         border-bottom: 1px solid black;
     }
-    }  
+    }     
+`
+export const BtnHamb = styled.button`
+    display: none;
+    @media only screen and (max-width:600px){
+        display: block;
+        cursor: pointer;
+        height: 50px;
+        background-color: white;
+        border:none;
+        border-radius: 5px;
+    }
+`
+export const ImgHamb = styled.img`
+    width:30px
 `
 export const Notlist = styled.ul`
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     width: 85%;
+    @media only screen and (max-width:600px){
+        background-color: red;
+        display: none;
+    }
     
 `
 export const Imagem = styled.img`
     margin:5px ;
+    width: 70px;
 `
 export const Botao = styled.button`
     height: 22px;
