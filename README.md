@@ -24,10 +24,10 @@ Desenvolvedores do projeto
 Você também pode ver a lista de todos os [colaboradores](https://github.com/future4code/Moreira-labe-commerce1/graphs/contributors) que participaram deste projeto.
 <hr>
 &nbsp;
-## :presente: Expressões de gratidão
-- Conte a outras pessoas sobre este projeto :megafone2:
-- Convide alguém da equipe para uma cerveja :cerveja:
-- Obrigado publicamente :carinha_nerd:
+Um obrigado a todos que dispuseram do seu tempo a vir aqui e olhar este projeto. Obrigado.
+- Conte a outras pessoas sobre este projeto.
+- Convide alguém da equipe para uma cerveja.
+- Obrigado publicamente.
 - etc.
 <hr>
 &nbsp;
