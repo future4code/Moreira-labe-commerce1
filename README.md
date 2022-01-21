@@ -4,16 +4,16 @@
 <h3 align="center">Um projeto em grupo desenvolvido em React.</h3>
 <hr>
 &nbsp;
-  <h3>Link do Projeto</h3>
-- [Link](https://oafish-rub.surge.sh/) - Link do projeto
+  <h3>Link do Projeto</h3><br>
+- [Link](https://oafish-rub.surge.sh/) - Link do projeto<br>
   <h3>Construído com:</h3>
-  <h3>Ferramentas que usamos para criar o nosso projeto</h3>
-- [Surge](https://oafish-rub.surge.sh/) - Link do Surge
-- [StyledComponents](https://styled-components.com/) - Folhas de Estilo em Cascata
-- [ReactIcons](https://react-icons.github.io/react-icons/) - Pacotes de ícones
-- [Figma](https://www.figma.com/) - the collaborative interface design tool.
-- [Visual Studio Code](https://code.visualstudio.com/) - Code Editing. Redefined
-- [React](https://pt-br.reactjs.org/) - Linguagem/Framework/Biblioteca usada neste projeto.
+  <h3>Ferramentas que usamos para criar o nosso projeto</h3><br>
+- [Surge](https://oafish-rub.surge.sh/) - Link do Surge<br>
+- [StyledComponents](https://styled-components.com/) - Folhas de Estilo em Cascata<br>
+- [ReactIcons](https://react-icons.github.io/react-icons/) - Pacotes de ícones<br>
+- [Figma](https://www.figma.com/) - the collaborative interface design tool.<br>
+- [Visual Studio Code](https://code.visualstudio.com/) - Code Editing. Redefined<br>
+- [React](https://pt-br.reactjs.org/) - Linguagem/Framework/Biblioteca usada neste projeto.<br>
 <hr>
 
 <h4> Autores</h4>
