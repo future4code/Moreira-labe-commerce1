@@ -5,10 +5,10 @@
 <hr>
 &nbsp;
 ## Link do Projeto
-- [Link]() - Link do projeto
+- [Link](https://oafish-rub.surge.sh/) - Link do projeto
 ## :martelo_e_chave: Construído com
 Ferramentas que usamos para criar o nosso projeto
-- [Surge]() - Link do Surge
+- [Surge](https://oafish-rub.surge.sh/) - Link do Surge
 - [StyledComponents](https://styled-components.com/) - Folhas de Estilo em Cascata
 - [ReactIcons](https://react-icons.github.io/react-icons/) - Pacotes de ícones
 - [Figma](https://www.figma.com/) - the collaborative interface design tool.
@@ -33,11 +33,13 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/fu
 &nbsp;
 ## Prints do website
 <h1 align="center">
-    ![pag-home](https://user-images.githubusercontent.com/85260996/150592517-ccd3a091-d5a9-4a0e-aa64-96871784dcad.png)
+    ![pag-home](https://user-images.githubusercontent.com/85260996/150593444-1a4c40fa-4f93-4f98-ae70-960911604da5.png)
+
     <br>Imagem da página Home do projeto.<br>
 </h1>
 <h1 align="center">
-    ![pag-prod](https://user-images.githubusercontent.com/85260996/150592553-ea7df111-dbfb-4f07-902b-12793cf2177a.png)
+    ![pag-prod](https://user-images.githubusercontent.com/85260996/150593482-30705e2e-7ff9-4c99-9ac2-3fe08f502570.png)
+
     <br>Imagem da página de Produtos do projeto.<br>
 </h1>
 
