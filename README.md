@@ -33,14 +33,11 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/fu
 &nbsp;
 ## Prints do website
 <h1 align="center">
-    ![pag-home](https://user-images.githubusercontent.com/85260996/150593444-1a4c40fa-4f93-4f98-ae70-960911604da5.png)
-
+    <img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 30" src="https://user-images.githubusercontent.com/85260996/150593814-b1ea5b68-f4ac-4ec9-b5a8-46f24ecfbd80.png">
     <br>Imagem da página Home do projeto.<br>
 </h1>
 <h1 align="center">
     <img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 30" src="https://user-images.githubusercontent.com/85260996/150593717-67c9f23d-fcf4-4aad-ac13-81d00c418944.png">
-
-
     <br>Imagem da página de Produtos do projeto.<br>
 </h1>
 
