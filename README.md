@@ -18,10 +18,10 @@
 
 <h4> Autores</h4>
 <h4>Desenvolvedores do projeto</h4>
-- Arthur Kelvim - _Desenvolveu o Header da página Home e também o Header da página de produtos._ - [kelvart](https://github.com/artkelv)
-- Carlos Henrique - _Desenvolveu o Main da aplicação da página Home e da página de produtos usando a ferramenta Figma._ - [moreira-Carlos-Costa](https://github.com/future4code/moreira-Carlos-Costa)
-- Matheus Castro- _Desenvolveu o Footer da página Home e também o footer da página de produtos._ - [matheuscastro77](https://github.com/matheuscastro77)
-Você também pode ver a lista de todos os [colaboradores](https://github.com/future4code/Moreira-labe-commerce1/graphs/contributors) que participaram deste projeto.
+- Arthur Kelvim - _Desenvolveu o Header da página Home e também o Header da página de produtos._ - [kelvart](https://github.com/artkelv)<br>
+- Carlos Henrique - _Desenvolveu o Main da aplicação da página Home e da página de produtos usando a ferramenta Figma._ - [moreira-Carlos-Costa](https://github.com/future4code/moreira-Carlos-Costa)<br>
+- Matheus Castro- _Desenvolveu o Footer da página Home e também o footer da página de produtos._ - [matheuscastro77](https://github.com/matheuscastro77)<br>
+Você também pode ver a lista de todos os [colaboradores](https://github.com/future4code/Moreira-labe-commerce1/graphs/contributors) que participaram deste projeto.<br>
 <hr>
 &nbsp;
 Um obrigado a todos que dispuseram do seu tempo a vir aqui e olhar este projeto. Obrigado.
