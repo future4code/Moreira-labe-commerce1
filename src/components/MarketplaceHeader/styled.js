@@ -4,7 +4,7 @@ export const ImagemLogo = styled.img`
     width: 70px;
 ` 
 export const Div = styled.div`
-    height: 80px;
+    height: 90px;
     background-color: #3f3d56;
     display: flex;
     justify-content: space-between;

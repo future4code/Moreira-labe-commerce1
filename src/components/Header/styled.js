@@ -6,7 +6,7 @@ export const Boxheader = styled.header`
     background-color:#3f3d56;
     justify-content: space-evenly;
     align-items: center;
-    height: 80px;
+    height: 90px;
     @media only screen and (max-width:600px){
         display: flex;
         justify-content: space-between;
