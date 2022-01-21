@@ -1,11 +1,27 @@
 import React from 'react';
 
-function App() {
-  return (
-    <div className="App">
-     <h1>Hello App</h1>
-    </div>
-  );
+import GlobalStyle from './AppStyled'
+
+import {Container} from './AppStyled'
+
+import RoutesApp from './routes'
+
+export default class App extends React.Component {
+
+  render() {
+    
+    return (
+      <>
+        <GlobalStyle /> 
+        <Container>
+         <RoutesApp />
+        </Container>
+      </>
+    )
+  }
+  
 }
 
-export default App;
+ 
+
+
