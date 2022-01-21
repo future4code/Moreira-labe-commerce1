@@ -4,8 +4,10 @@ import styled from 'styled-components';
 export const Rodape = styled.div`
     display: flex;
     background-color: #3f3d56;
-    height: 100px;
+    height: 120px;
     justify-content: center;
+   /*  padding-top: 10px;
+    padding-bottom: 40px; */
     @media only screen and (max-width: 600px) {
     
     display: block;
