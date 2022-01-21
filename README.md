@@ -6,7 +6,7 @@
 &nbsp;
   <h3>Link do Projeto</h3><br>
 - [Link](https://oafish-rub.surge.sh/) - Link do projeto<br>
-  <h3>Construído com:</h3>
+
   <h3>Ferramentas que usamos para criar o nosso projeto</h3><br>
 - [Surge](https://oafish-rub.surge.sh/) - Link do Surge<br>
 - [StyledComponents](https://styled-components.com/) - Folhas de Estilo em Cascata<br>
