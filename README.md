@@ -38,7 +38,8 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/fu
     <br>Imagem da página Home do projeto.<br>
 </h1>
 <h1 align="center">
-    ![pag-prod](https://user-images.githubusercontent.com/85260996/150593482-30705e2e-7ff9-4c99-9ac2-3fe08f502570.png)
+    <img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 30" src="https://user-images.githubusercontent.com/85260996/150593717-67c9f23d-fcf4-4aad-ac13-81d00c418944.png">
+
 
     <br>Imagem da página de Produtos do projeto.<br>
 </h1>
