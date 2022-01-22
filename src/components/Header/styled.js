@@ -16,8 +16,6 @@ export const Boxheader = styled.header`
 export const Listas = styled.li`
     list-style: none;
     font-weight: bold;
-    color: #FFFFFF;
-    cursor: pointer;
     &:nth-child(1){
         &:hover{
         border-bottom: 1px solid black;
@@ -62,18 +60,15 @@ export const Notlist = styled.ul`
 export const Imagem = styled.img`
     margin:5px ;
     width: 70px;
-    cursor: pointer;
 `
 export const Botao = styled.button`
-    
-    width: 150px;
-    border-radius: 10px;
+    height: 22px;
+    width: 80px;
+    border-radius: 15px;
     border:none;
     background-color:#1A181B ;
     cursor: pointer;
     color: white;   
-    font-weight: bold;
-    padding: 12px;
     &:hover{
         background-color:white;
         color:black;
