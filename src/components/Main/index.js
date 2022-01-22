@@ -1,8 +1,11 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom'
+
 import {
     Container,
     ContainerLeft,
-    ContainerRight
+    ContainerRight,
+    Button
 
 } from './styled'
 
@@ -11,15 +14,22 @@ import Img2 from '../../assets/img2.svg';
 import Img3 from '../../assets/img3.svg';
 
 class Main extends Component {
+    
     render() {
+      
         return (
             <Container>
               <ContainerLeft>
                 <div>
                     <h1>LabenuSpace</h1>
-                    <p>Loja LabenuSpace Atacado, compre online e receba onde quiser com entrega rápida e segura. Garanta o sucesso da sua Loja Geek com produtos incriveís. Ofertas para lojistas.
+                    <p>Loja LabenuSpace Atacado, compre online e receba onde quiser com entrega rápida e segura.
+                       Garanta o sucesso da sua Loja Geek com produtos incriveís. Ofertas para lojistas.
                     </p>
-                    <button>Descubra</button>
+                    <Link to="./marketplace">
+                      <Button type="button">Descubra</Button>
+                    </Link>
+
+                    
                 </div>
                 
               </ContainerLeft>

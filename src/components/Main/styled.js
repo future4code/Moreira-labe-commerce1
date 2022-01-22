@@ -27,7 +27,7 @@ export const ContainerLeft = styled.div`
         margin: 0 auto;
         padding: 30px;
         //background-color: grey;
-        height: 80vh;
+        height: 100vh;
     }
     h1 {
         font-size: 2.5rem;
@@ -44,24 +44,24 @@ export const ContainerLeft = styled.div`
         font-weight: bold;
         
     }
-    button {
-        background-color:#3f3d56;
-        height: 50px;
-        width: 50%;
-        border: 0;
-        border-radius: 10px;
-        color: #FFFFFF;
-        font-size: 20px;
-        cursor: pointer;
+
+`
+export const Button = styled.button`
+    background-color:#3f3d56;
+    height: 50px;
+    width: 50%;
+    border: 0;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    :hover {
+        background-color:#FFFFFF;
+        color: #3f3d56;
         box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-
-        :hover {
-            background-color:#FFFFFF;
-            color: #3f3d56;
-            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-        }
     }
-
 `
 export const ContainerRight = styled.div`
     display: flex;

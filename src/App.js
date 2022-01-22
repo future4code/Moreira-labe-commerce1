@@ -1,18 +1,27 @@
 import React from 'react';
-import Header from './components/Header' 
-import Main from './components/Main'
-import Footer from './components/Footer'
 
-function App() {
-  return (
-    <div className="App">
-     <Header /> 
-     <Main />
-     <Footer />
-    </div>
-  )
+import GlobalStyle from './AppStyled'
+
+import {Container} from './AppStyled'
+
+import RoutesApp from './routes'
+
+export default class App extends React.Component {
+
+  render() {
+    
+    return (
+      <>
+        <GlobalStyle /> 
+        <Container>
+         <RoutesApp />
+        </Container>
+      </>
+    )
+  }
+  
 }
 
-export default App
+ 
 
 
