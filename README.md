@@ -7,13 +7,13 @@
 
   <h3>Link do Projeto</h3><br>
 
-[Link](https://oafish-rub.surge.sh/)
+[Link](https://half-desk.surge.sh/)
 
 <h3>Ferramentas que usamos para criar o nosso projeto</h3><br>
 
  # :hammer_and_wrench: Construído com
 
-- [Surge](https://oafish-rub.surge.sh/)
+- [Surge](https://half-desk.surge.sh/)
 
 - [StyledComponents](https://styled-components.com/) - Folhas de Estilo em Cascata<br>
 - [ReactIcons](https://react-icons.github.io/react-icons/) - Pacotes de ícones<br>
