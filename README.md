@@ -4,11 +4,17 @@
 <h3 align="center">Um projeto em grupo desenvolvido em React.</h3>
 <hr>
 &nbsp;
-  <h3>Link do Projeto</h3><br>
-- [Link](https://oafish-rub.surge.sh/) - Link do projeto<br>
 
-  <h3>Ferramentas que usamos para criar o nosso projeto</h3><br>
-- [Surge](https://oafish-rub.surge.sh/) - Link do Surge<br>
+  <h3>Link do Projeto</h3><br>
+
+[Link](https://oafish-rub.surge.sh/)
+
+<h3>Ferramentas que usamos para criar o nosso projeto</h3><br>
+
+ # :hammer_and_wrench: Construído com
+
+- [Surge](https://oafish-rub.surge.sh/)
+
 - [StyledComponents](https://styled-components.com/) - Folhas de Estilo em Cascata<br>
 - [ReactIcons](https://react-icons.github.io/react-icons/) - Pacotes de ícones<br>
 - [Figma](https://www.figma.com/) - the collaborative interface design tool.<br>
@@ -16,19 +22,27 @@
 - [React](https://pt-br.reactjs.org/) - Linguagem/Framework/Biblioteca usada neste projeto.<br>
 <hr>
 
-<h4> Autores</h4>
-<h4>Desenvolvedores do projeto</h4>
-- Arthur Kelvim - _Desenvolveu o Header da página Home e também o Header da página de produtos._ - [kelvart](https://github.com/artkelv)<br>
-- Carlos Henrique - _Desenvolveu o Main da aplicação da página Home e da página de produtos usando a ferramenta Figma._ - [moreira-Carlos-Costa](https://github.com/future4code/moreira-Carlos-Costa)<br>
+## :black_nib: Autores
+
+- Arthur Kelvim - Desenvolveu o Header da página Home e também o Header da página de produtos._ - [kelvart](https://github.com/artkelv)<br>
+
+- Carlos Henrique - _Desenvolveu o Main da aplicação da página Home e da página de produtos usando a ferramenta Figma._ - [HEINRICK7](https://github.com/HEINRICK7)<br>
+
 - Matheus Castro- _Desenvolveu o Footer da página Home e também o footer da página de produtos._ - [matheuscastro77](https://github.com/matheuscastro77)<br>
 Você também pode ver a lista de todos os [colaboradores](https://github.com/future4code/Moreira-labe-commerce1/graphs/contributors) que participaram deste projeto.<br>
 <hr>
 &nbsp;
+
+## :gift: Expressões de gratidão
+<p>
 Um obrigado a todos que dispuseram do seu tempo a vir aqui e olhar este projeto. Obrigado.
+</p>
+
 - Conte a outras pessoas sobre este projeto.
 - Convide alguém da equipe para uma cerveja.
 - Obrigado publicamente.
 - etc.
+
 <hr>
 &nbsp;
 ## Prints do website
