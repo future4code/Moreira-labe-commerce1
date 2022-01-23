@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom'
 
 import {
     Container,
@@ -24,7 +25,11 @@ class Main extends Component {
                     <p>Loja LabenuSpace Atacado, compre online e receba onde quiser com entrega rápida e segura.
                        Garanta o sucesso da sua Loja Geek com produtos incriveís. Ofertas para lojistas.
                     </p>
-                    <Button onClick={() => {window.location.assign('./marketplace')}} type="button">Descubra</Button>
+                    <Link to="./marketplace">
+                      <Button type="button">Descubra</Button>
+                    </Link>
+
+                    
                 </div>
                 
               </ContainerLeft>
