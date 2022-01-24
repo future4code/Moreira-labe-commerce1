@@ -7,13 +7,13 @@
 
   <h3>Link do Projeto</h3><br>
 
-[Link](https://half-desk.surge.sh/)
+[Link](https://upbeat-stop.surge.sh/)
 
 <h3>Ferramentas que usamos para criar o nosso projeto</h3><br>
 
  # :hammer_and_wrench: Construído com
 
-- [Surge](https://half-desk.surge.sh/)
+- [Surge](https://upbeat-stop.surge.sh/)
 
 - [StyledComponents](https://styled-components.com/) - Folhas de Estilo em Cascata<br>
 - [ReactIcons](https://react-icons.github.io/react-icons/) - Pacotes de ícones<br>
