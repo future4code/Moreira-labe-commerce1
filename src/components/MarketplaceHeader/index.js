@@ -15,8 +15,10 @@ class Index extends Component {
             <Link to="/">
               <ImagemLogo src={LogoMarket} alt='Logo-Space-labenu' />
             </Link>
-            
-            <FiShoppingCart style={{fontSize: 35, color: "white"}}/>   
+            <button>
+              <FiShoppingCart style={{fontSize: 35, color: "white"}}/>
+              <span>{this.props.countCartItems}</span>
+            </button>
         </Div>
     )
   }
