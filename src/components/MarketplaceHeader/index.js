@@ -11,8 +11,18 @@ class Index extends Component {
   render() {
     return (
         <Div>
+
+            <Link to="/">
+              <ImagemLogo src={LogoMarket} alt='Logo-Space-labenu' />
+            </Link>
+            <button>
+              <FiShoppingCart style={{fontSize: 35, color: "white"}}/>
+              <span>{this.props.countCartItems}</span>
+            </button>
+
             <ImagemLogo src={LogoMarket} alt='Logo-Space-labenu' />
             <FiShoppingCart style={{fontSize: 35, color: "white"}}/>   
+
         </Div>
     )
   }
