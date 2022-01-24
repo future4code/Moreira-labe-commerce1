@@ -3,12 +3,10 @@ import React, { Component } from 'react';
 import Card from '../Card/index'
 
 import { Container, ContainerCards, ContainerInput, Select, ContainerDiv } from './styled'
-import api from '../../services/api.js'
 
 class MarketPlaceMain extends Component {
 
     state = {
-        api: api,
         search: '',
         minPrice: '',
         maxPrice: '',
@@ -27,7 +25,7 @@ class MarketPlaceMain extends Component {
         this.setState({ order: event.target.value })
     }
     render() {
-
+        const { products, onAdd } = this.props;
         return (
             <>
                 <Container>
@@ -50,7 +48,7 @@ class MarketPlaceMain extends Component {
                             onChange={this.OnChangeMaxPrice}
                         />
                         <ContainerDiv>
-                        <label for="sort">Ordem: </label>
+                        <label htmlFor="sort">Ordem: </label>
                         <Select 
                             name="sort"
                             value={this.state.order}
@@ -63,7 +61,7 @@ class MarketPlaceMain extends Component {
                     </ContainerInput>
 
                     <ContainerCards>
-                        {this.state.api
+                        {products
                             .filter(item => {
                                 return item.name.toLocaleLowerCase().includes(this.state.search.toLocaleLowerCase())
                             })
@@ -82,13 +80,11 @@ class MarketPlaceMain extends Component {
                                 }
                             })
                             .map
-                            ((item, index) => (
+                            ((product, index) => (
                                 <Card
                                     key={index}
-                                    id={item.id}
-                                    name={item.name}
-                                    price={item.value.toFixed(2)}
-                                    img={item.imageUrl}
+                                    product={product}
+                                    onAdd={onAdd}
                                 />
                             ))}
                     </ContainerCards>
