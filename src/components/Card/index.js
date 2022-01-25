@@ -5,6 +5,7 @@ import {Container} from './styled'
 class Card extends Component {
     render() {
 
+      
       const { product, onAdd } = this.props;
         return (
             <Container>
