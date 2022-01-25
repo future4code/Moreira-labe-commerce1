@@ -15,10 +15,16 @@ class Index extends Component {
             <Link to="/">
               <ImagemLogo src={LogoMarket} alt='Logo-Space-labenu' />
             </Link>
+            
             <button>
               <FiShoppingCart style={{fontSize: 35, color: "white"}}/>
+              {this.props.countCartItems ? (
               <span>{this.props.countCartItems}</span>
+              ) : (
+                ''
+              )}
             </button>
+            
         </Div>
     )
   }

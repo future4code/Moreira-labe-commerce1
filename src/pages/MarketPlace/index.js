@@ -56,12 +56,7 @@ class MarketPlace extends Component {
               }
 
               return product
-          })
-
-          this.setState({cartItems: newProductsInCart})
-        } else {
-          const productToAdd = api.find(product => productId === product.id)
-          const newProductsInCart = [...this.state.cartItems, {...productToAdd, quantity: 1}]
+          }).filter((product) => product.quantity > 0)
 
           this.setState({cartItems: newProductsInCart})
         }
