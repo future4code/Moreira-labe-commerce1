@@ -97,8 +97,5 @@ export const ContainerRight = styled.div`
         img.img3 {
         margin-left: 0;
     }
-    }
-        
-  }
-    
+    }   
 `
